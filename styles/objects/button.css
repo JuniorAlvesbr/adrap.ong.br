@@ -1,5 +1,7 @@
 .button {
+    display: block;
     text-align: center;
+    text-decoration: none;
     background-color: var(--color-third);
     color: var(--color-first);
 }
@@ -10,9 +12,4 @@
 
 .button.-color-sixth {
     background-color: var(--color-sixth);
-}
-
-.button > .link {
-    text-decoration: none;
-    color: var(--color-first);
 }

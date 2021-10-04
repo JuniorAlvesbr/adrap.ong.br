@@ -10,15 +10,16 @@
     height: auto;
 }
 
-.header-container > .links-container {
+.header-container > .menu {
     position: relative;
     bottom: 20px;
 }
 
-.header-container > .links-container .button {
+.header-container > .menu .button {
     padding: 16px;
+    font-size: 24px;
 }
 
-.header-container .button > .link {
-    font-size: 24px;
+.header-container > .menu .text {
+    font-size: 16px;
 }

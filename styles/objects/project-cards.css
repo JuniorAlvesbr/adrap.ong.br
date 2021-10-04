@@ -2,18 +2,26 @@
     border: 5px solid var(--color-third);
 }
 
+.project-card.-color-fourth {
+    border: 5px solid var(--color-fourth);
+}
+
+.project-card.-color-sixth {
+    border: 5px solid var(--color-sixth);
+}
+
 .project-card > .image {
     max-width: 100%;
 }
 
-.project-card > .text-content {
+.project-card > .text-container {
     text-align: center;    
 }
 
-.project-card > .text-content .sub-title {
+.project-card > .text-container .sub-title {
     font-weight: 400;
 }
 
-.project-card > .text-content > .text {
+.project-card > .text-container > .text {
     line-height: 22px;
 }

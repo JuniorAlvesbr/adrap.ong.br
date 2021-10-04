@@ -3,19 +3,19 @@
     height: auto;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
 
 .project-container > .project-card {
     max-width: 340px;
+    margin-bottom: 20px;
 }
 
-.project-container > .project-card .text-content {
+.project-container > .project-card .text-container {
     padding: 0 22px;
 }
 
-.project-container .text-content > .text {
+.project-container .text-container > .text {
     font-size: 12px;
 }
 
