@@ -1,0 +1,19 @@
+.project-card {
+    border: 5px solid var(--color-third);
+}
+
+.project-card > .image {
+    max-width: 100%;
+}
+
+.project-card > .text-content {
+    text-align: center;    
+}
+
+.project-card > .text-content .sub-title {
+    font-weight: 400;
+}
+
+.project-card > .text-content > .text {
+    line-height: 22px;
+}

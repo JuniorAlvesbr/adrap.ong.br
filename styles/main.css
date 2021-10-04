@@ -6,6 +6,8 @@
 
 /* objects */
 @import "./objects/button.css";
+@import "./objects/project-cards.css";
 
 /* components */
 @import "./components/header.css";
+@import "./components/project.css";

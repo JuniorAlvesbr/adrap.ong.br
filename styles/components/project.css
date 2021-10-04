@@ -1,0 +1,27 @@
+.project-container {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-container > .project-card {
+    max-width: 340px;
+}
+
+.project-container > .project-card .text-content {
+    padding: 0 22px;
+}
+
+.project-container .text-content > .text {
+    font-size: 12px;
+}
+
+.project-container > .project-card .button {
+    font-size: 12px;
+    padding: 8px 16px;
+    margin: 0 auto 16px;
+    max-width: 110px;
+}
