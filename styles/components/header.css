@@ -7,3 +7,8 @@
     max-width: 100%;
     height: auto;
 }
+
+.header-container > .links-container {
+    position: relative;
+    bottom: 20px;
+}
