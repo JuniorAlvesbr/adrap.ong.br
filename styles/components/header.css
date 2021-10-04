@@ -1,0 +1,9 @@
+.header-container {
+    width: 100vw;
+    height: auto;
+}
+
+.header-container .logo {
+    max-width: 100%;
+    height: auto;
+}
