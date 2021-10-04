@@ -6,8 +6,8 @@
     border: 5px solid var(--color-fourth);
 }
 
-.project-card.-color-sixth {
-    border: 5px solid var(--color-sixth);
+.project-card.-color-fifth {
+    border: 5px solid var(--color-fifth);
 }
 
 .project-card > .image {
