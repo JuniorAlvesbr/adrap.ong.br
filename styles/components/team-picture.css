@@ -1,0 +1,6 @@
+.team-picture {
+    width: 100vw;
+    height: 100vh;
+    background: url('../../assets/team-480.jpg') no-repeat;
+    background-attachment: fixed;
+}
