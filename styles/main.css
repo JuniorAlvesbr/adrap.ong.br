@@ -7,8 +7,10 @@
 /* objects */
 @import "./objects/button.css";
 @import "./objects/project-cards.css";
+@import "./objects/team-card.css";
 
 /* components */
 @import "./components/header.css";
 @import "./components/project.css";
 @import "./components/team-picture.css";
+@import "./components/team.css";
