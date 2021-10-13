@@ -1,0 +1,20 @@
+.donation > .text-container {
+    background-color: var(--color-fifth);
+    color: var(--color-first);
+    text-align: center;
+    padding: 44px 62px;
+}
+
+.donation > .text-container .text {
+    line-height: 1.8;
+}
+
+.donation > .text-container .button {
+    padding: 14px;
+    margin-top: 90px;
+    font-size: 24px;
+}
+
+.donation .image-container .image {
+    width: 100%;
+}
