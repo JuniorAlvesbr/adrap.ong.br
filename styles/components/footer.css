@@ -1,0 +1,9 @@
+.footer > .address {
+    padding: 22px;
+    line-height: 1.5;
+}
+
+.footer > .maps {
+    width: 100vw;
+    height: auto;
+}
