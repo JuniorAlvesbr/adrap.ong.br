@@ -1,3 +1,7 @@
+.donation {
+    width: 98vw;
+}
+
 .donation > .text-container {
     background-color: var(--color-fifth);
     color: var(--color-first);

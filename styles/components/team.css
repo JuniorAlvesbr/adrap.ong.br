@@ -3,7 +3,7 @@
 }
 
 .team > .team-container {
-    width: 100vw;
+    width: 99vw;
     height: auto;
     display: flex;
     flex-direction: column;
